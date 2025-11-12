@@ -1,6 +1,6 @@
 # Abstraction
 
-**What is Abstraction?** <br>
+### **What is Abstraction?** <br>
 -> Abstraction hides **complex implementation details**,focusing only on essential features. <br>
 -> It emphasizes **what an object does, not how it does it**, through clear interfaces. <br>
 
