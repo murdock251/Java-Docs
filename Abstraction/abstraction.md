@@ -5,7 +5,7 @@
 -> Abstraction hides **complex implementation details**,focusing only on essential features.
 -> It emphasizes **what an object does, not how it does it**, through clear interfaces.
 
-
+</pre>
 ```java
 package in.nsucoding.abstraction;
 
@@ -40,5 +40,5 @@ public abstract class Vehicle  implements Transport{
     }
 }
 ```    
-</pre>
+
 
