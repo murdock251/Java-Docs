@@ -1,5 +1,6 @@
 # Abstraction
 
+<pre>
 **What is Abstraction?**
 -> Abstraction hides **complex implementation details**,focusing only on essential features.
 -> It emphasizes **what an object does, not how it does it**, through clear interfaces.
@@ -38,5 +39,6 @@ public abstract class Vehicle  implements Transport{
         System.out.println("going...");
     }
 }
-```
+```    
+</pre>
 
